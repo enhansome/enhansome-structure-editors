@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "description": "Projectional editing is how almost all document editing applications work nowadays, except for editing source code and text documents, where it is still common to edit plain text files that are parsed to render/compile the result.\nThis document is a list of projects trying to bring the projectional/structural approach to source code editing.\nAs evident from the wealth of ongoing and concluded attempts listed below, this problem appears to be either difficult, or impossible. Hopefully one or more of these projects will succeed in realising it and bringing it to the mainstream!",
+      "items": [],
+      "title": "Foreword"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unreleased Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Concluded or inactive projects"
+    },
+    {
+      "description": "Blocks Programming languages/editors are a specific kind of structural programming editors, where the code is structured in a manner similar to 'lego blocks' supporting 'drag and drop' editing.",
+      "items": [],
+      "title": "Blocks Programming Editors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Spreadsheet-based projects"
+    },
+    {
+      "description": "Not sure in which category these projects fit in:",
+      "items": [],
+      "title": "Other notable projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:29:14.831Z",
+    "original_repository": "yairchu/awesome-structure-editors",
+    "original_repository_sha": "1f15c71b79aed51c5b4f432c40e68d74b62bf2e5",
+    "enhanced_repository": "enhansome/enhansome-structure-editors",
+    "enhanced_repository_description": null,
+    "title": "Awesome Structure Editors with stars"
+  }
+}
