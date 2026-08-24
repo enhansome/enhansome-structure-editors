@@ -1,7 +1,543 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "This list includes projects which are actively developed or were maintained recently. Currently the bar for incomplete projects is set arbitrarily at 2020.\nProject properties are summarized using unicode/emoji 'flags':",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Enso",
+          "description": "💵 📖 ⤴️ 👶 λ Hybrid visual+textual programming language Scala, Rust 7441 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76672223,
+            "language": "Java",
+            "last_commit": "2026-08-10T23:15:44Z",
+            "owner": "enso-org",
+            "repo": "enso",
+            "stars": 7438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unison",
+          "description": "💵 📖 👶 λ Code database projected to text-files edited in your text editor of choice. Originally centered around having a projectional editor, but pivoted to creating a cloud programming language first Haskell 6206 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35164952,
+            "language": "Haskell",
+            "last_commit": "2026-08-19T20:47:26Z",
+            "owner": "unisonweb",
+            "repo": "unison",
+            "stars": 6712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unit",
+          "description": "⤴️ 👶 🌐 A general purpose visual programming system TypeScript 4379 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 375391318,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T12:05:57Z",
+            "owner": "samuelmtimbo",
+            "repo": "unit",
+            "stars": 4918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lamdu",
+          "description": "♡ ⌨️ 👶 λ 文 Language with live programming and novel UX for type errors Haskell 1873 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2616288,
+            "language": "Haskell",
+            "last_commit": "2026-08-21T09:21:50Z",
+            "owner": "lamdu",
+            "repo": "lamdu",
+            "stars": 1898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPS",
+          "description": "💵 ⌨️ 🧰 🔨 Language workbench for projectional languages Java 1615 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2209077,
+            "language": "JetBrains MPS",
+            "last_commit": "2026-08-24T13:04:28Z",
+            "owner": "JetBrains",
+            "repo": "MPS",
+            "stars": 1654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cursorless",
+          "description": "♡ 📖 🔨 Spoken language for structural code editing TypeScript 1266 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 340101432,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T21:01:36Z",
+            "owner": "cursorless-dev",
+            "repo": "cursorless",
+            "stars": 1335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hazel",
+          "description": "🎓 ⌨️ 👶 λ 🌐 Language with live programming and typed holes Reason 1038 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80174692,
+            "language": "Reason",
+            "last_commit": "2026-08-24T13:05:39Z",
+            "owner": "hazelgrove",
+            "repo": "hazel",
+            "stars": 1136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sapling",
+          "description": "⌨️ Vim/Kakoune-inspired modal structured editor for existing languages Rust 757 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296399864,
+            "language": "Rust",
+            "last_commit": "2025-02-04T19:49:38Z",
+            "owner": "kneasle",
+            "repo": "sapling",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JOY.js",
+          "description": "♡ 👶 🧰 🌐 🔨 👨‍👩‍👧‍👦 Language workbench for programmable demos JavaScript 568 2018",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113183344,
+            "language": "JavaScript",
+            "last_commit": "2018-04-25T05:51:12Z",
+            "owner": "ncase",
+            "repo": "joy",
+            "stars": 572
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fructure",
+          "description": "｟ 🧰 A projectional editor workbench for Racket-implemented languages Racket 480 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80266994,
+            "language": "Racket",
+            "last_commit": "2024-01-27T07:54:38Z",
+            "owner": "disconcision",
+            "repo": "fructure",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SplootCode",
+          "description": "⌨️ 🌐 A structural editor for Python, aimed towards beginners TypeScript 457 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 330517540,
+            "language": "TypeScript",
+            "last_commit": "2024-02-23T10:46:27Z",
+            "owner": "SplootCode",
+            "repo": "splootcode",
+            "stars": 456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tylr",
+          "description": "🎓 ⌨️ λ 🌐 A tiny tile-based editor for well-formedly manipulating sequences of tokens Reason 309 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286363484,
+            "language": "Reason",
+            "last_commit": "2025-11-24T16:49:02Z",
+            "owner": "hazelgrove",
+            "repo": "tylr",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eyg",
+          "description": "👶 λ 🌐 Minimal language to enable exploration of alternative editing methods Gleam 248 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 386258665,
+            "language": "Gleam",
+            "last_commit": "2026-08-24T13:14:42Z",
+            "owner": "CrowdHailer",
+            "repo": "eyg-lang",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cirru",
+          "description": "｟ A tree editor for ClojureScript Clojure 229 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96208642,
+            "language": "Cirru",
+            "last_commit": "2026-08-10T15:26:18Z",
+            "owner": "Cirru",
+            "repo": "calcit-editor",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holbert",
+          "description": "🎓 🌐 A graphical interactive proof assistant designed for education Haskell 169 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293810852,
+            "language": "Haskell",
+            "last_commit": "2024-11-21T04:43:28Z",
+            "owner": "liamoc",
+            "repo": "holbert",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vlojure",
+          "description": "⤴️ ｟ 🌐 A novel visual UX for ClojureScript Clojure 146 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405264395,
+            "language": "Clojure",
+            "last_commit": "2022-02-03T04:06:26Z",
+            "owner": "Ella-Hoeppner",
+            "repo": "Vlojure",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProjecturEd",
+          "description": "👨‍👩‍👧‍👦 General purpose projectional editor Common Lisp 141 2022",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 8003742,
+            "language": "Common Lisp",
+            "last_commit": "2026-07-17T08:49:58Z",
+            "owner": "projectured",
+            "repo": "projectured-lisp",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tofu",
+          "description": "♡ ☕ VSCode extension for structured editing of JavaScript and TypeScript TypeScript 102 2024",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160121525,
+            "language": null,
+            "last_commit": "2024-03-08T00:52:37Z",
+            "owner": "Gregoor",
+            "repo": "tofu",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subtext",
+          "description": "👶 A series of inspiring presentations and projects exploring ideas in projectional editing TypeScript 101 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 410439338,
+            "language": "TypeScript",
+            "last_commit": "2022-02-16T19:25:44Z",
+            "owner": "JonathanMEdwards",
+            "repo": "subtext10",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Envision",
+          "description": "🎓 👶 Editor for a Java/C++ like language C++ 99 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2650576,
+            "language": "C++",
+            "last_commit": "2022-02-19T23:51:30Z",
+            "owner": "dimitar-asenov",
+            "repo": "Envision",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pantograph",
+          "description": "🎓 ⌨️ 👶 λ 🌐 A fluid and typed structure editor PureScript 93 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627980624,
+            "language": "PureScript",
+            "last_commit": "2026-04-17T18:28:24Z",
+            "owner": "jeprinz",
+            "repo": "pantograph",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Freon",
+          "description": "⌨️ 🧰 🌐 Web-based Projectional Language Workbench TypeScript 71 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154798200,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:06:38Z",
+            "owner": "freon4dsl",
+            "repo": "Freon4dsl",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forest",
+          "description": "☕ 🌐 A prototype tree editor for TypeScript TypeScript 60 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253021147,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T10:29:12Z",
+            "owner": "tehwalris",
+            "repo": "forest",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lisperanto",
+          "description": "♡ ｟ 🌐 IDE for Lisp-like language JavaScript 45 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 377639706,
+            "language": "JavaScript",
+            "last_commit": "2026-01-20T11:02:39Z",
+            "owner": "uprun",
+            "repo": "Lyspen",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundry",
+          "description": "λ A projectional editor for the Morte language Haskell 29 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41019439,
+            "language": "Haskell",
+            "last_commit": "2025-04-03T01:21:58Z",
+            "owner": "serokell",
+            "repo": "foundry",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gopcaml-mode",
+          "description": "📖 λ 🔨 Structural editing Emacs plugin for OCaml code OCaml 23 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345017555,
+            "language": "OCaml",
+            "last_commit": "2022-07-12T02:18:19Z",
+            "owner": "kiranandcode",
+            "repo": "gopcaml-mode",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frugel",
+          "description": "🎓 ⌨️ 👶 λ A research exploring a novel UX for textual entry of code Haskell 19 2022",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405026581,
+            "language": "Haskell",
+            "last_commit": "2022-07-25T20:37:13Z",
+            "owner": "cdfa",
+            "repo": "frugel",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Javardise",
+          "description": "🎓 📖 Editor for a subset of Java Kotlin 6 2025",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 513948806,
+            "language": "Kotlin",
+            "last_commit": "2025-04-12T15:59:39Z",
+            "owner": "andre-santos-pt",
+            "repo": "javardise",
+            "stars": 7
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Novella",
+              "description": "2019 - 2020 A structural editor infrastructure, in 2020 author moved on to develop Inflex instead.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 218553478,
+                "language": "Haskell",
+                "last_commit": "2020-01-11T22:56:54Z",
+                "owner": "chrisdone-archive",
+                "repo": "novella",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Omni",
+              "description": "2013 - 2017 👶 TODO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10886593,
+                "language": "C++",
+                "last_commit": "2017-12-07T19:11:56Z",
+                "owner": "daniel-kun",
+                "repo": "omni",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Viskell",
+              "description": "2015 - 2017 λ Visual programming meets Haskell",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30242992,
+                "language": "Java",
+                "last_commit": "2017-04-19T22:14:33Z",
+                "owner": "viskell",
+                "repo": "viskell",
+                "stars": 679
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Golem",
+              "description": "2014 - 2016 🎓 📖 ⌨️ 👶 λ ｟ 🌐 Online tree editor and debugger for Shem, a functional LISP-like language which compiles to JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42375617,
+                "language": "CoffeeScript",
+                "last_commit": "2020-08-29T09:19:33Z",
+                "owner": "xixixao",
+                "repo": "Shem",
+                "stars": 391
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Concluded or inactive projects"
+        }
+      ],
+      "title": "Structural code editor projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mesh",
+          "description": "JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85393329,
+            "language": "JavaScript",
+            "last_commit": "2024-05-29T06:32:39Z",
+            "owner": "chrispsn",
+            "repo": "mesh",
+            "stars": 1558
+          }
+        }
+      ],
+      "title": "Spreadsheet-based projects"
+    },
+    {
+      "description": "Not sure in which category these projects fit in:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JSON Editor",
+          "description": "🌐 JSON schema-based editor JavaScript",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111553664,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T12:30:32Z",
+            "owner": "json-editor",
+            "repo": "json-editor",
+            "stars": 4906
+          }
+        }
+      ],
+      "title": "Other notable projects"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:36:02.769Z",
+    "last_updated": "2026-08-24T14:24:46.870Z",
     "original_repository": "yairchu/awesome-structure-editors",
     "original_repository_id": 439898103,
     "original_repository_sha": "1f15c71b79aed51c5b4f432c40e68d74b62bf2e5",
