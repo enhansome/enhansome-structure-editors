@@ -105,7 +105,7 @@
             "last_commit": "2026-08-24T21:17:04Z",
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1136
+            "stars": 1138
           }
         },
         {
@@ -428,7 +428,7 @@
             {
               "node_type": "item",
               "title": "Novella",
-              "description": "2019 - 2020 A structural editor infrastructure, in 2020 author moved on to develop Inflex instead.",
+              "description": "2019 - 2020  A structural editor infrastructure, in 2020 author moved on to develop Inflex instead.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -526,7 +526,7 @@
             "archived": false,
             "id": 111553664,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T18:38:46Z",
+            "last_commit": "2026-08-25T06:08:46Z",
             "owner": "json-editor",
             "repo": "json-editor",
             "stars": 4906
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:22:00.967Z",
+    "last_updated": "2026-08-25T06:17:00.858Z",
     "original_repository": "yairchu/awesome-structure-editors",
     "original_repository_id": 439898103,
     "original_repository_sha": "1f15c71b79aed51c5b4f432c40e68d74b62bf2e5",
