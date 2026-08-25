@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6712
+            "stars": 6713
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-21T09:21:50Z",
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1898
+            "stars": 1899
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-24T13:04:28Z",
+            "last_commit": "2026-08-24T21:04:24Z",
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1654
+            "stars": 1655
           }
         },
         {
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-24T13:05:39Z",
+            "last_commit": "2026-08-24T21:17:04Z",
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1136
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 386258665,
             "language": "Gleam",
-            "last_commit": "2026-08-24T13:14:42Z",
+            "last_commit": "2026-08-24T16:10:54Z",
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
             "stars": 359
@@ -526,7 +526,7 @@
             "archived": false,
             "id": 111553664,
             "language": "JavaScript",
-            "last_commit": "2026-07-03T12:30:32Z",
+            "last_commit": "2026-08-24T18:38:46Z",
             "owner": "json-editor",
             "repo": "json-editor",
             "stars": 4906
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:24:46.870Z",
+    "last_updated": "2026-08-25T02:22:00.967Z",
     "original_repository": "yairchu/awesome-structure-editors",
     "original_repository_id": 439898103,
     "original_repository_sha": "1f15c71b79aed51c5b4f432c40e68d74b62bf2e5",
