@@ -15,7 +15,7 @@
             "last_commit": "2026-08-10T23:15:44Z",
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7438
+            "stars": 7439
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T20:47:26Z",
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6716
+            "stars": 6717
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-25T21:04:31Z",
+            "last_commit": "2026-08-27T09:04:27Z",
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1656
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 340101432,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:01:36Z",
+            "last_commit": "2026-08-26T13:55:19Z",
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1335
@@ -102,7 +102,7 @@
             "archived": false,
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-25T20:37:30Z",
+            "last_commit": "2026-08-27T09:22:21Z",
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1140
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 386258665,
             "language": "Gleam",
-            "last_commit": "2026-08-25T19:25:46Z",
+            "last_commit": "2026-08-27T09:47:16Z",
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -529,7 +529,7 @@
             "last_commit": "2026-08-25T11:22:29Z",
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4906
+            "stars": 4905
           }
         }
       ],
@@ -537,9 +537,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:37:53.177Z",
-    "original_repository": "yairchu/awesome-structure-editors",
-    "original_repository_id": 439898103,
+    "last_updated": "2026-08-27T11:09:16.463Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 439898103,
+      "language": "Python",
+      "last_commit": "2025-09-28T19:41:58Z",
+      "owner": "yairchu",
+      "repo": "awesome-structure-editors",
+      "stars": 464
+    },
     "original_repository_sha": "1f15c71b79aed51c5b4f432c40e68d74b62bf2e5",
     "enhanced_repository": "enhansome/enhansome-structure-editors",
     "enhanced_repository_description": null,
