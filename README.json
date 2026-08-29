@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enso Analytics is a self-service data prep and analysis platform designed for data teams.",
+            "homepage": "https://ensoanalytics.com",
             "id": 76672223,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T23:15:44Z",
+            "open_issues": 325,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7439
+            "stars": 7439,
+            "topics": [
+              "compiler",
+              "enso",
+              "functional",
+              "graalvm",
+              "hybrid",
+              "interpreter",
+              "jit",
+              "language",
+              "polyglot",
+              "rts",
+              "textual",
+              "visual"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -26,12 +44,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A friendly programming language from the future",
+            "homepage": "https://unison-lang.org",
             "id": 35164952,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T20:47:26Z",
+            "open_issues": 1268,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6719
+            "stars": 6722,
+            "topics": [
+              "hacktoberfest",
+              "haskell",
+              "programming-language",
+              "unison",
+              "unison-language"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -42,12 +71,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next Generation Visual Programming System",
+            "homepage": "https://unit.software",
             "id": 375391318,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:05:57Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T14:14:46Z",
+            "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4920
+            "stars": 4920,
+            "topics": [
+              "dataflow-programming",
+              "functional-programming",
+              "live-programming",
+              "programming",
+              "programming-language",
+              "reactive-programming",
+              "unit",
+              "visual-programming"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -58,12 +101,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lamdu - towards the next generation IDE",
+            "homepage": "https://www.lamdu.org",
             "id": 2616288,
             "language": "Haskell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-21T09:21:50Z",
+            "open_issues": 25,
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1899
+            "stars": 1899,
+            "topics": [
+              "integrated-development-environment",
+              "programmer-tool",
+              "programming-language",
+              "projectional-editor",
+              "structure-editor",
+              "wytiwys"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -74,12 +129,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JetBrains Meta programming System",
+            "homepage": "http://jetbrains.com/mps",
             "id": 2209077,
             "language": "JetBrains MPS",
-            "last_commit": "2026-08-28T09:04:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:04:39Z",
+            "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1656
+            "stars": 1656,
+            "topics": [
+              "domain-specific-language",
+              "dsl"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -90,12 +153,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Don't let the cursor slow you down",
+            "homepage": "https://www.cursorless.org/",
             "id": 340101432,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T19:39:18Z",
+            "open_issues": 573,
             "owner": "cursorless-dev",
             "repo": "cursorless",
-            "stars": 1335
+            "stars": 1335,
+            "topics": [
+              "structure-editor",
+              "talonvoice",
+              "voice",
+              "voice-coding",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -106,12 +181,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hazel, a live functional programming environment with typed holes",
+            "homepage": "http://hazel.org/",
             "id": 80174692,
             "language": "Reason",
-            "last_commit": "2026-08-28T10:09:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:41:14Z",
+            "open_issues": 422,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1140
+            "stars": 1141,
+            "topics": [
+              "editor",
+              "elm",
+              "functional-programming",
+              "holes",
+              "ocaml",
+              "reasonml"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -122,12 +209,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A highly experimental vi-inspired editor where you edit code, not text.",
+            "homepage": null,
             "id": 296399864,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-02-04T19:49:38Z",
+            "open_issues": 19,
             "owner": "kneasle",
             "repo": "sapling",
-            "stars": 769
+            "stars": 769,
+            "topics": [
+              "code-editor",
+              "editor",
+              "experimental",
+              "rust",
+              "structured-editing",
+              "text-editor",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -138,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "make happy little programs",
+            "homepage": null,
             "id": 113183344,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2018-04-25T05:51:12Z",
+            "open_issues": 10,
             "owner": "ncase",
             "repo": "joy",
-            "stars": 572
+            "stars": 572,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -154,12 +259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a structured interaction engine 🗜️ ⚗️",
+            "homepage": "https://fructure-editor.tumblr.com/",
             "id": 80266994,
             "language": "Racket",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-27T07:54:38Z",
+            "open_issues": 16,
             "owner": "disconcision",
             "repo": "fructure",
-            "stars": 506
+            "stars": 506,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -170,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The coding environment for non-engineers",
+            "homepage": "https://splootcode.io/",
             "id": 330517540,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-23T10:46:27Z",
+            "open_issues": 2,
             "owner": "SplootCode",
             "repo": "splootcode",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -186,12 +301,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a tiny tile-based editor",
+            "homepage": "https://tylr.fun",
             "id": 286363484,
             "language": "Reason",
+            "license": "MIT",
             "last_commit": "2025-11-24T16:49:02Z",
+            "open_issues": 70,
             "owner": "hazelgrove",
             "repo": "tylr",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "holes",
+              "js-of-ocaml",
+              "ocaml",
+              "reasonml",
+              "structure-editor"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -202,12 +328,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The safest scripting language for you, or your agent.",
+            "homepage": "https://eyg.run/",
             "id": 386258665,
             "language": "Gleam",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:12:58Z",
+            "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "functional-programming",
+              "gleam",
+              "programming"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -218,12 +353,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Intuitive S-expressions editing for Clojure(Script).",
+            "homepage": "http://calcit-editor.cirru.org/",
             "id": 96208642,
             "language": "Cirru",
+            "license": "MIT",
             "last_commit": "2026-08-10T15:26:18Z",
+            "open_issues": 1,
             "owner": "Cirru",
             "repo": "calcit-editor",
-            "stars": 229
+            "stars": 229,
+            "topics": [
+              "cirru",
+              "clojurescript",
+              "respo",
+              "syntax-tree"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -234,12 +379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A graphical interactive proof assistant designed for education",
+            "homepage": null,
             "id": 293810852,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-11-21T04:43:28Z",
+            "open_issues": 1,
             "owner": "liamoc",
             "repo": "holbert",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -250,12 +400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A visual programming interface for ClojureScript",
+            "homepage": null,
             "id": 405264395,
             "language": "Clojure",
+            "license": "MIT",
             "last_commit": "2022-02-03T04:06:26Z",
+            "open_issues": 1,
             "owner": "Ella-Hoeppner",
             "repo": "Vlojure",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -266,12 +421,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ProjecturEd is a generic purpose projectional editor.",
+            "homepage": "http://projectured.org/",
             "id": 8003742,
             "language": "Common Lisp",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T08:49:58Z",
+            "open_issues": 3,
             "owner": "projectured",
             "repo": "projectured-lisp",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -282,12 +442,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiment in structural code editing",
+            "homepage": "https://marketplace.visualstudio.com/items?itemName=watware.tofu-vscode",
             "id": 160121525,
             "language": null,
+            "license": null,
             "last_commit": "2024-03-08T00:52:37Z",
+            "open_issues": 15,
             "owner": "Gregoor",
             "repo": "tofu",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "code-editor",
+              "projection-editor",
+              "structured-editing"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -298,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 410439338,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-02-16T19:25:44Z",
+            "open_issues": 0,
             "owner": "JonathanMEdwards",
             "repo": "subtext10",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -314,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A next-generation IDE that makes programming more efficient",
+            "homepage": "http://www.pm.inf.ethz.ch/research/envision.html",
             "id": 2650576,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-02-19T23:51:30Z",
+            "open_issues": 29,
             "owner": "dimitar-asenov",
             "repo": "Envision",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -330,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 627980624,
             "language": "PureScript",
+            "license": "MIT",
             "last_commit": "2026-04-17T18:28:24Z",
+            "open_issues": 0,
             "owner": "jeprinz",
             "repo": "pantograph",
-            "stars": 116
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -346,12 +530,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Native language Workbench with Projectional Web Editor",
+            "homepage": "https://www.freon4dsl.dev",
             "id": 154798200,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T08:32:52Z",
+            "open_issues": 18,
             "owner": "freon4dsl",
             "repo": "Freon4dsl",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "domain-specific-language",
+              "dsl",
+              "language-modeling",
+              "projectional-editor",
+              "svelte",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -362,12 +558,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-cursor structural editor prototype for TypeScript",
+            "homepage": "https://forest.walr.is",
             "id": 253021147,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T10:29:12Z",
+            "open_issues": 12,
             "owner": "tehwalris",
             "repo": "forest",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "editor",
+              "multi-cursor",
+              "projectional-editor",
+              "prototype",
+              "refactoring",
+              "structure-editor",
+              "tree-editor",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -378,12 +588,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lyspen (previously Lisperanto) is an AST structured editor.",
+            "homepage": null,
             "id": 377639706,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-20T11:02:39Z",
+            "open_issues": 0,
             "owner": "uprun",
             "repo": "Lyspen",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "canvas",
+              "editor",
+              "ideas",
+              "knowledge",
+              "knowledge-graph",
+              "spatial-canvas",
+              "spatialcanvas",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -394,12 +618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Morte IDE",
+            "homepage": null,
             "id": 41019439,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2025-04-03T01:21:58Z",
+            "open_issues": 3,
             "owner": "serokell",
             "repo": "foundry",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -410,12 +639,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MIRROR] Ultimate Ocaml Editing Mode",
+            "homepage": null,
             "id": 345017555,
             "language": "OCaml",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-12T02:18:19Z",
+            "open_issues": 0,
             "owner": "kiranandcode",
             "repo": "gopcaml-mode",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "code-navigation",
+              "editing",
+              "emacs",
+              "ide",
+              "ocaml"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -426,12 +666,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An error-tolerant live programming environment (my Master's thesis)",
+            "homepage": null,
             "id": 405026581,
             "language": "Haskell",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-25T20:37:13Z",
+            "open_issues": 29,
             "owner": "cdfa",
             "repo": "frugel",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -442,12 +687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 513948806,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2025-04-12T15:59:39Z",
+            "open_issues": 22,
             "owner": "andre-santos-pt",
             "repo": "javardise",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -460,12 +710,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 218553478,
                 "language": "Haskell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-01-11T22:56:54Z",
+                "open_issues": 0,
                 "owner": "chrisdone-archive",
                 "repo": "novella",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
             },
@@ -476,12 +731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Omni Programming Language",
+                "homepage": null,
                 "id": 10886593,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-12-07T19:11:56Z",
+                "open_issues": 0,
                 "owner": "daniel-kun",
                 "repo": "omni",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
             },
@@ -492,12 +752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Visual programming meets Haskell",
+                "homepage": null,
                 "id": 30242992,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-19T22:14:33Z",
+                "open_issues": 22,
                 "owner": "viskell",
                 "repo": "viskell",
-                "stars": 679
+                "stars": 679,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
             },
@@ -508,12 +773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The compiler of the programming language Shem",
+                "homepage": null,
                 "id": 42375617,
                 "language": "CoffeeScript",
+                "license": "MIT",
                 "last_commit": "2020-08-29T09:19:33Z",
+                "open_issues": 0,
                 "owner": "xixixao",
                 "repo": "Shem",
-                "stars": 391
+                "stars": 391,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
             }
@@ -535,12 +805,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Old version. Visualise data and edit JavaScript code using a spreadsheet interface.",
+            "homepage": "http://mesh-spreadsheet.com",
             "id": 85393329,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-29T06:32:39Z",
+            "open_issues": 41,
             "owner": "chrispsn",
             "repo": "mesh",
-            "stars": 1558
+            "stars": 1558,
+            "topics": [
+              "alpha",
+              "ide",
+              "javascript",
+              "spreadsheet"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         }
@@ -557,12 +837,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSON Schema Based Editor",
+            "homepage": null,
             "id": 111553664,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T11:22:29Z",
+            "open_issues": 294,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4904
+            "stars": 4905,
+            "topics": [
+              "bootstrap",
+              "editor",
+              "javascript",
+              "json",
+              "json-schema",
+              "json-schema-form"
+            ]
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         }
@@ -571,15 +863,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:42:24.373Z",
+    "last_updated": "2026-08-29T04:48:40.790Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of projectional and structural editors",
+      "homepage": null,
       "id": 439898103,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2025-09-28T19:41:58Z",
+      "open_issues": 5,
       "owner": "yairchu",
       "repo": "awesome-structure-editors",
-      "stars": 464
+      "stars": 464,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "projectional-editor",
+        "structure-editor",
+        "tree-editor"
+      ]
     },
     "original_repository_sha": "1f15c71b79aed51c5b4f432c40e68d74b62bf2e5",
     "enhanced_repository": "enhansome/enhansome-structure-editors",
