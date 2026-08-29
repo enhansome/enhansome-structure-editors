@@ -158,8 +158,8 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T19:39:18Z",
-            "open_issues": 573,
+            "last_commit": "2026-08-29T07:15:52Z",
+            "open_issues": 574,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1335,
@@ -186,7 +186,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-08-29T04:41:14Z",
+            "last_commit": "2026-08-29T07:04:06Z",
             "open_issues": 422,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:40.790Z",
+    "last_updated": "2026-08-29T07:49:42.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
