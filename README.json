@@ -19,7 +19,7 @@
             "open_issues": 325,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7439,
+            "stars": 7440,
             "topics": [
               "compiler",
               "enso",
@@ -53,7 +53,7 @@
             "open_issues": 1268,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6722,
+            "stars": 6720,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T21:04:39Z",
+            "last_commit": "2026-08-29T21:04:16Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -158,11 +158,11 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T07:15:52Z",
-            "open_issues": 574,
+            "last_commit": "2026-08-30T04:02:08Z",
+            "open_issues": 573,
             "owner": "cursorless-dev",
             "repo": "cursorless",
-            "stars": 1335,
+            "stars": 1334,
             "topics": [
               "structure-editor",
               "talonvoice",
@@ -186,7 +186,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-08-29T07:04:06Z",
+            "last_commit": "2026-08-29T19:23:50Z",
             "open_issues": 422,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -333,11 +333,11 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T22:12:58Z",
+            "last_commit": "2026-08-29T19:59:54Z",
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 360,
+            "stars": 362,
             "topics": [
               "functional-programming",
               "gleam",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:49:42.067Z",
+    "last_updated": "2026-08-30T06:34:53.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
