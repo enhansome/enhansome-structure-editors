@@ -19,7 +19,7 @@
             "open_issues": 325,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7440,
+            "stars": 7441,
             "topics": [
               "compiler",
               "enso",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T21:04:16Z",
+            "last_commit": "2026-08-30T21:04:07Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -158,7 +158,7 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:02:08Z",
+            "last_commit": "2026-08-31T06:54:33Z",
             "open_issues": 573,
             "owner": "cursorless-dev",
             "repo": "cursorless",
@@ -333,11 +333,11 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T19:59:54Z",
+            "last_commit": "2026-08-30T10:44:45Z",
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 362,
+            "stars": 363,
             "topics": [
               "functional-programming",
               "gleam",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:34:53.615Z",
+    "last_updated": "2026-08-31T06:59:07.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
