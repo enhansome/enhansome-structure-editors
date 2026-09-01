@@ -19,7 +19,7 @@
             "open_issues": 325,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7441,
+            "stars": 7442,
             "topics": [
               "compiler",
               "enso",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T21:04:07Z",
+            "last_commit": "2026-08-31T21:04:33Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1656,
+            "stars": 1657,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -158,8 +158,8 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T06:54:33Z",
-            "open_issues": 573,
+            "last_commit": "2026-09-01T00:08:45Z",
+            "open_issues": 558,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1334,
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-08-29T19:23:50Z",
-            "open_issues": 422,
+            "last_commit": "2026-09-01T02:49:11Z",
+            "open_issues": 423,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1141,
@@ -333,11 +333,11 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T10:44:45Z",
+            "last_commit": "2026-08-31T16:34:08Z",
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 363,
+            "stars": 365,
             "topics": [
               "functional-programming",
               "gleam",
@@ -846,7 +846,7 @@
             "open_issues": 294,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4905,
+            "stars": 4904,
             "topics": [
               "bootstrap",
               "editor",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:59:07.630Z",
+    "last_updated": "2026-09-01T06:12:54.171Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
