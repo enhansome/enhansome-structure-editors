@@ -50,10 +50,10 @@
             "language": "Haskell",
             "license": "NOASSERTION",
             "last_commit": "2026-08-19T20:47:26Z",
-            "open_issues": 1268,
+            "open_issues": 1269,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6720,
+            "stars": 6723,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T21:04:18Z",
+            "last_commit": "2026-09-03T21:04:42Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1657,
+            "stars": 1658,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -158,8 +158,8 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T13:52:16Z",
-            "open_issues": 534,
+            "last_commit": "2026-09-04T05:44:47Z",
+            "open_issues": 535,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1334,
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-03T02:36:39Z",
-            "open_issues": 426,
+            "last_commit": "2026-09-04T03:44:27Z",
+            "open_issues": 429,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1142,
+            "stars": 1143,
             "topics": [
               "editor",
               "elm",
@@ -846,7 +846,7 @@
             "open_issues": 294,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4904,
+            "stars": 4905,
             "topics": [
               "bootstrap",
               "editor",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:43:24.762Z",
+    "last_updated": "2026-09-04T05:48:16.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
