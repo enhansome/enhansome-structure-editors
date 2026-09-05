@@ -53,7 +53,7 @@
             "open_issues": 1269,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6723,
+            "stars": 6722,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T21:04:42Z",
+            "last_commit": "2026-09-04T21:04:18Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -158,8 +158,8 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T05:44:47Z",
-            "open_issues": 535,
+            "last_commit": "2026-09-04T13:26:43Z",
+            "open_issues": 534,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1334,
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-04T03:44:27Z",
-            "open_issues": 429,
+            "last_commit": "2026-09-05T04:37:38Z",
+            "open_issues": 436,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1143,
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "functional-programming",
               "gleam",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:48:16.132Z",
+    "last_updated": "2026-09-05T05:39:12.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
