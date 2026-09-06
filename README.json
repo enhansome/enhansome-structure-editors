@@ -53,7 +53,7 @@
             "open_issues": 1269,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6722,
+            "stars": 6721,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4920,
+            "stars": 4919,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T21:04:18Z",
+            "last_commit": "2026-09-05T21:04:00Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1658,
+            "stars": 1656,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -158,7 +158,7 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T13:26:43Z",
+            "last_commit": "2026-09-06T04:03:32Z",
             "open_issues": 534,
             "owner": "cursorless-dev",
             "repo": "cursorless",
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-05T04:37:38Z",
-            "open_issues": 436,
+            "last_commit": "2026-09-06T04:15:59Z",
+            "open_issues": 442,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1143,
@@ -333,11 +333,11 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T17:29:44Z",
+            "last_commit": "2026-09-05T16:37:49Z",
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "functional-programming",
               "gleam",
@@ -362,7 +362,7 @@
             "open_issues": 1,
             "owner": "Cirru",
             "repo": "calcit-editor",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "cirru",
               "clojurescript",
@@ -782,7 +782,7 @@
                 "open_issues": 0,
                 "owner": "xixixao",
                 "repo": "Shem",
-                "stars": 391,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
@@ -814,7 +814,7 @@
             "open_issues": 41,
             "owner": "chrispsn",
             "repo": "mesh",
-            "stars": 1558,
+            "stars": 1557,
             "topics": [
               "alpha",
               "ide",
@@ -846,7 +846,7 @@
             "open_issues": 294,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4905,
+            "stars": 4904,
             "topics": [
               "bootstrap",
               "editor",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:39:12.820Z",
+    "last_updated": "2026-09-06T05:51:32.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
