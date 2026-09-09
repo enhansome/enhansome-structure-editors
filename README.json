@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4919,
+            "stars": 4918,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -110,7 +110,7 @@
             "open_issues": 25,
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1899,
+            "stars": 1898,
             "topics": [
               "integrated-development-environment",
               "programmer-tool",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T21:04:05Z",
+            "last_commit": "2026-09-08T21:04:26Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1657,
+            "stars": 1658,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -159,7 +159,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-06T04:03:32Z",
-            "open_issues": 534,
+            "open_issues": 533,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1334,
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-08T01:10:10Z",
-            "open_issues": 445,
+            "last_commit": "2026-09-09T05:14:40Z",
+            "open_issues": 440,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1146,
+            "stars": 1147,
             "topics": [
               "editor",
               "elm",
@@ -337,7 +337,7 @@
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "functional-programming",
               "gleam",
@@ -497,7 +497,7 @@
             "open_issues": 29,
             "owner": "dimitar-asenov",
             "repo": "Envision",
-            "stars": 97,
+            "stars": 96,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
@@ -535,7 +535,7 @@
             "id": 154798200,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T08:39:40Z",
+            "last_commit": "2026-09-08T12:30:56Z",
             "open_issues": 18,
             "owner": "freon4dsl",
             "repo": "Freon4dsl",
@@ -761,7 +761,7 @@
                 "open_issues": 22,
                 "owner": "viskell",
                 "repo": "viskell",
-                "stars": 679,
+                "stars": 678,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:54:19.014Z",
+    "last_updated": "2026-09-09T05:55:48.739Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
@@ -875,7 +875,7 @@
       "open_issues": 5,
       "owner": "yairchu",
       "repo": "awesome-structure-editors",
-      "stars": 464,
+      "stars": 465,
       "topics": [
         "awesome",
         "awesome-list",
