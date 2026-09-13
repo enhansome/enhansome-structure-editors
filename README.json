@@ -19,7 +19,7 @@
             "open_issues": 325,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7442,
+            "stars": 7441,
             "topics": [
               "compiler",
               "enso",
@@ -53,7 +53,7 @@
             "open_issues": 1271,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6723,
+            "stars": 6727,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -110,7 +110,7 @@
             "open_issues": 25,
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1898,
+            "stars": 1899,
             "topics": [
               "integrated-development-environment",
               "programmer-tool",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T21:04:25Z",
+            "last_commit": "2026-09-12T21:04:21Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-12T04:59:37Z",
-            "open_issues": 459,
+            "last_commit": "2026-09-12T21:44:10Z",
+            "open_issues": 467,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1148,
+            "stars": 1150,
             "topics": [
               "editor",
               "elm",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:41:25.335Z",
+    "last_updated": "2026-09-13T06:02:12.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
@@ -875,7 +875,7 @@
       "open_issues": 5,
       "owner": "yairchu",
       "repo": "awesome-structure-editors",
-      "stars": 467,
+      "stars": 468,
       "topics": [
         "awesome",
         "awesome-list",
