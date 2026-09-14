@@ -53,7 +53,7 @@
             "open_issues": 1271,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6727,
+            "stars": 6728,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4918,
+            "stars": 4917,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T21:04:21Z",
+            "last_commit": "2026-09-13T21:04:19Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -159,7 +159,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T06:48:54Z",
-            "open_issues": 532,
+            "open_issues": 533,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1334,
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-12T21:44:10Z",
-            "open_issues": 467,
+            "last_commit": "2026-09-14T02:49:15Z",
+            "open_issues": 483,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1150,
+            "stars": 1151,
             "topics": [
               "editor",
               "elm",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:02:12.246Z",
+    "last_updated": "2026-09-14T06:09:48.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
