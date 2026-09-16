@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T21:04:52Z",
+            "last_commit": "2026-09-15T21:04:29Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1658,
+            "stars": 1659,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-09-15T02:55:52Z",
-            "open_issues": 460,
+            "last_commit": "2026-09-15T19:17:48Z",
+            "open_issues": 458,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1152,
+            "stars": 1153,
             "topics": [
               "editor",
               "elm",
@@ -328,12 +328,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The safest scripting language for you, or your agent.",
+            "description": "Building better languages and tools; for some measure of better.",
             "homepage": "https://eyg.run/",
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T18:49:22Z",
+            "last_commit": "2026-09-15T21:03:09Z",
             "open_issues": 0,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T06:07:19.633Z",
+    "last_updated": "2026-09-16T05:56:51.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
