@@ -53,7 +53,7 @@
             "open_issues": 1272,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6734,
+            "stars": 6735,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -76,7 +76,7 @@
             "id": 375391318,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T13:31:00Z",
+            "last_commit": "2026-09-21T02:40:11Z",
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T21:04:25Z",
+            "last_commit": "2026-09-20T21:04:11Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -158,8 +158,8 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T23:09:43Z",
-            "open_issues": 534,
+            "last_commit": "2026-09-20T06:53:38Z",
+            "open_issues": 533,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1335,
@@ -863,7 +863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:08:01.157Z",
+    "last_updated": "2026-09-21T06:14:03.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
