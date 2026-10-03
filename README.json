@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:19:13Z",
+            "last_commit": "2026-10-03T06:22:23Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:50.806Z",
+    "last_updated": "2026-10-03T06:24:25.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
