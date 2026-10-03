@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T17:39:34Z",
+            "last_commit": "2026-10-02T14:25:37Z",
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6742,
+            "stars": 6741,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4916,
+            "stars": 4917,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -110,7 +110,7 @@
             "open_issues": 25,
             "owner": "lamdu",
             "repo": "lamdu",
-            "stars": 1899,
+            "stars": 1894,
             "topics": [
               "integrated-development-environment",
               "programmer-tool",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T21:04:12Z",
+            "last_commit": "2026-10-02T21:04:30Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1660,
+            "stars": 1659,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -158,7 +158,7 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T21:44:21Z",
+            "last_commit": "2026-10-02T17:34:20Z",
             "open_issues": 532,
             "owner": "cursorless-dev",
             "repo": "cursorless",
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:40:11Z",
-            "open_issues": 484,
+            "last_commit": "2026-10-03T02:02:53Z",
+            "open_issues": 488,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1158,
@@ -333,11 +333,11 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:16:23Z",
+            "last_commit": "2026-10-02T13:19:13Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "functional-programming",
               "gleam",
@@ -539,7 +539,7 @@
             "open_issues": 18,
             "owner": "freon4dsl",
             "repo": "Freon4dsl",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "domain-specific-language",
               "dsl",
@@ -588,26 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Lyspen (previously Lisperanto) is an AST structured editor.",
+            "description": "Lisperanto - lets start over shall we?",
             "homepage": null,
             "id": 377639706,
-            "language": "JavaScript",
+            "language": null,
             "license": "MIT",
-            "last_commit": "2026-01-20T11:02:39Z",
+            "last_commit": "2026-10-02T22:21:20Z",
             "open_issues": 0,
             "owner": "uprun",
-            "repo": "Lyspen",
+            "repo": "Lisperanto",
             "stars": 45,
-            "topics": [
-              "canvas",
-              "editor",
-              "ideas",
-              "knowledge",
-              "knowledge-graph",
-              "spatial-canvas",
-              "spatialcanvas",
-              "version-control"
-            ]
+            "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
         },
@@ -761,7 +752,7 @@
                 "open_issues": 22,
                 "owner": "viskell",
                 "repo": "viskell",
-                "stars": 678,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
@@ -814,7 +805,7 @@
             "open_issues": 41,
             "owner": "chrispsn",
             "repo": "mesh",
-            "stars": 1557,
+            "stars": 1556,
             "topics": [
               "alpha",
               "ide",
@@ -863,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:57:38.615Z",
+    "last_updated": "2026-10-03T05:12:50.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
