@@ -53,7 +53,7 @@
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6743,
+            "stars": 6742,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T21:04:06Z",
+            "last_commit": "2026-10-04T21:03:49Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -162,7 +162,7 @@
             "open_issues": 532,
             "owner": "cursorless-dev",
             "repo": "cursorless",
-            "stars": 1337,
+            "stars": 1338,
             "topics": [
               "structure-editor",
               "talonvoice",
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-04T04:48:28Z",
-            "open_issues": 482,
+            "last_commit": "2026-10-05T00:34:55Z",
+            "open_issues": 484,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1158,
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T20:34:27Z",
+            "last_commit": "2026-10-04T21:13:36Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -837,7 +837,7 @@
             "open_issues": 292,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4902,
+            "stars": 4901,
             "topics": [
               "bootstrap",
               "editor",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:47:19.816Z",
+    "last_updated": "2026-10-05T06:55:55.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
