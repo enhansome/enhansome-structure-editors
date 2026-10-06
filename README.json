@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:25:37Z",
+            "last_commit": "2026-10-05T16:59:14Z",
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6742,
+            "stars": 6743,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4917,
+            "stars": 4916,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T21:03:49Z",
+            "last_commit": "2026-10-05T21:04:21Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1659,
+            "stars": 1660,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -158,8 +158,8 @@
             "id": 340101432,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T10:48:00Z",
-            "open_issues": 532,
+            "last_commit": "2026-10-06T07:01:20Z",
+            "open_issues": 533,
             "owner": "cursorless-dev",
             "repo": "cursorless",
             "stars": 1338,
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-05T00:34:55Z",
-            "open_issues": 484,
+            "last_commit": "2026-10-06T00:19:38Z",
+            "open_issues": 486,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1158,
@@ -310,7 +310,7 @@
             "open_issues": 70,
             "owner": "hazelgrove",
             "repo": "tylr",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "holes",
               "js-of-ocaml",
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T21:13:36Z",
+            "last_commit": "2026-10-05T21:44:23Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -518,7 +518,7 @@
             "open_issues": 0,
             "owner": "jeprinz",
             "repo": "pantograph",
-            "stars": 118,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:55:55.550Z",
+    "last_updated": "2026-10-06T07:29:50.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
