@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4916,
+            "stars": 4917,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:04:21Z",
+            "last_commit": "2026-10-06T21:04:30Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -162,7 +162,7 @@
             "open_issues": 532,
             "owner": "cursorless-dev",
             "repo": "cursorless",
-            "stars": 1338,
+            "stars": 1339,
             "topics": [
               "structure-editor",
               "talonvoice",
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:19:38Z",
-            "open_issues": 486,
+            "last_commit": "2026-10-07T07:08:07Z",
+            "open_issues": 490,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1158,
@@ -310,7 +310,7 @@
             "open_issues": 70,
             "owner": "hazelgrove",
             "repo": "tylr",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "holes",
               "js-of-ocaml",
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-05T21:44:23Z",
+            "last_commit": "2026-10-06T23:22:55Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -430,7 +430,7 @@
             "open_issues": 3,
             "owner": "projectured",
             "repo": "projectured-lisp",
-            "stars": 143,
+            "stars": 144,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
@@ -837,7 +837,7 @@
             "open_issues": 292,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4901,
+            "stars": 4902,
             "topics": [
               "bootstrap",
               "editor",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:18.121Z",
+    "last_updated": "2026-10-07T07:10:19.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
