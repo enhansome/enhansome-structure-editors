@@ -19,7 +19,7 @@
             "open_issues": 326,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7440,
+            "stars": 7441,
             "topics": [
               "compiler",
               "enso",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4917,
+            "stars": 4919,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T21:04:49Z",
+            "last_commit": "2026-10-08T21:04:16Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1660,
+            "stars": 1661,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-08T04:35:21Z",
-            "open_issues": 488,
+            "last_commit": "2026-10-09T07:17:37Z",
+            "open_issues": 489,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1159,
+            "stars": 1161,
             "topics": [
               "editor",
               "elm",
@@ -333,11 +333,11 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T18:29:38Z",
+            "last_commit": "2026-10-08T12:10:07Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "functional-programming",
               "gleam",
@@ -834,7 +834,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-25T11:22:29Z",
-            "open_issues": 292,
+            "open_issues": 293,
             "owner": "json-editor",
             "repo": "json-editor",
             "stars": 4902,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T07:16:42.364Z",
+    "last_updated": "2026-10-09T07:19:42.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
