@@ -53,7 +53,7 @@
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6748,
+            "stars": 6754,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -76,7 +76,7 @@
             "id": 375391318,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T19:29:07Z",
+            "last_commit": "2026-10-11T03:53:24Z",
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T21:03:59Z",
+            "last_commit": "2026-10-10T21:03:37Z",
             "open_issues": 7,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1661,
+            "stars": 1660,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -162,7 +162,7 @@
             "open_issues": 532,
             "owner": "cursorless-dev",
             "repo": "cursorless",
-            "stars": 1339,
+            "stars": 1340,
             "topics": [
               "structure-editor",
               "talonvoice",
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-10T01:38:54Z",
-            "open_issues": 490,
+            "last_commit": "2026-10-11T06:44:18Z",
+            "open_issues": 502,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1161,
@@ -337,7 +337,7 @@
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "functional-programming",
               "gleam",
@@ -834,7 +834,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-09T13:46:52Z",
-            "open_issues": 293,
+            "open_issues": 294,
             "owner": "json-editor",
             "repo": "json-editor",
             "stars": 4903,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T06:59:23.232Z",
+    "last_updated": "2026-10-11T07:05:20.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
