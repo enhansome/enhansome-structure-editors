@@ -19,7 +19,7 @@
             "open_issues": 326,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7442,
+            "stars": 7441,
             "topics": [
               "compiler",
               "enso",
@@ -53,7 +53,7 @@
             "open_issues": 1293,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6755,
+            "stars": 6756,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -76,11 +76,11 @@
             "id": 375391318,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T03:53:24Z",
+            "last_commit": "2026-10-12T14:30:38Z",
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4918,
+            "stars": 4917,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,8 +134,8 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T21:03:28Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-12T21:04:18Z",
+            "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
             "stars": 1660,
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-12T07:01:12Z",
-            "open_issues": 503,
+            "last_commit": "2026-10-13T02:46:54Z",
+            "open_issues": 509,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1162,
@@ -268,7 +268,7 @@
             "open_issues": 16,
             "owner": "disconcision",
             "repo": "fructure",
-            "stars": 507,
+            "stars": 508,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T19:09:44Z",
+            "last_commit": "2026-10-12T13:28:17Z",
             "open_issues": 1,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -752,7 +752,7 @@
                 "open_issues": 22,
                 "owner": "viskell",
                 "repo": "viskell",
-                "stars": 675,
+                "stars": 676,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
@@ -833,8 +833,8 @@
             "id": 111553664,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T13:46:52Z",
-            "open_issues": 294,
+            "last_commit": "2026-10-12T07:29:59Z",
+            "open_issues": 293,
             "owner": "json-editor",
             "repo": "json-editor",
             "stars": 4903,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:17:27.387Z",
+    "last_updated": "2026-10-13T07:39:15.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
