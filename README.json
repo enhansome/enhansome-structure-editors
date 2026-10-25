@@ -49,7 +49,7 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T18:56:49Z",
+            "last_commit": "2026-10-25T02:51:04Z",
             "open_issues": 1301,
             "owner": "unisonweb",
             "repo": "unison",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4918,
+            "stars": 4917,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T21:04:15Z",
+            "last_commit": "2026-10-24T21:03:59Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,7 +186,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-24T03:53:31Z",
+            "last_commit": "2026-10-25T03:38:10Z",
             "open_issues": 538,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T22:01:59Z",
+            "last_commit": "2026-10-24T20:29:23Z",
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:43:41.983Z",
+    "last_updated": "2026-10-25T05:59:38.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
