@@ -106,7 +106,7 @@
             "id": 2616288,
             "language": "Haskell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T20:55:13Z",
+            "last_commit": "2026-11-01T09:17:52Z",
             "open_issues": 25,
             "owner": "lamdu",
             "repo": "lamdu",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T21:04:09Z",
+            "last_commit": "2026-11-01T21:04:08Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1663,
+            "stars": 1664,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -186,7 +186,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-10-31T23:09:11Z",
+            "last_commit": "2026-11-01T22:38:38Z",
             "open_issues": 549,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -307,7 +307,7 @@
             "language": "Reason",
             "license": "MIT",
             "last_commit": "2025-11-24T16:49:02Z",
-            "open_issues": 71,
+            "open_issues": 70,
             "owner": "hazelgrove",
             "repo": "tylr",
             "stars": 331,
@@ -834,10 +834,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-30T11:09:42Z",
-            "open_issues": 290,
+            "open_issues": 291,
             "owner": "json-editor",
             "repo": "json-editor",
-            "stars": 4903,
+            "stars": 4904,
             "topics": [
               "bootstrap",
               "editor",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T07:26:50.452Z",
+    "last_updated": "2026-11-02T07:36:44.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
