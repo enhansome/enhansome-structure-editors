@@ -49,8 +49,8 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T19:36:54Z",
-            "open_issues": 1301,
+            "last_commit": "2026-11-03T04:03:45Z",
+            "open_issues": 1302,
             "owner": "unisonweb",
             "repo": "unison",
             "stars": 6773,
@@ -76,7 +76,7 @@
             "id": 375391318,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T01:17:54Z",
+            "last_commit": "2026-11-02T18:56:02Z",
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T21:04:08Z",
+            "last_commit": "2026-11-02T21:04:41Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1664,
+            "stars": 1665,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-01T22:38:38Z",
-            "open_issues": 549,
+            "last_commit": "2026-11-03T01:09:55Z",
+            "open_issues": 554,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1175,
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T07:36:44.119Z",
+    "last_updated": "2026-11-03T07:50:43.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
