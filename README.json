@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T22:18:10Z",
-            "open_issues": 1301,
+            "last_commit": "2026-11-06T05:35:15Z",
+            "open_issues": 1302,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6771,
+            "stars": 6775,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T21:04:46Z",
+            "last_commit": "2026-11-05T21:04:37Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-05T07:33:38Z",
-            "open_issues": 571,
+            "last_commit": "2026-11-05T21:27:30Z",
+            "open_issues": 568,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1175,
+            "stars": 1176,
             "topics": [
               "editor",
               "elm",
@@ -337,7 +337,7 @@
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "functional-programming",
               "gleam",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:52:16.260Z",
+    "last_updated": "2026-11-06T07:52:35.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
