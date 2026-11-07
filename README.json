@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T05:35:15Z",
-            "open_issues": 1302,
+            "last_commit": "2026-11-07T00:03:18Z",
+            "open_issues": 1301,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6775,
+            "stars": 6776,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,11 +134,11 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T21:04:37Z",
+            "last_commit": "2026-11-06T21:04:18Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
-            "stars": 1666,
+            "stars": 1668,
             "topics": [
               "domain-specific-language",
               "dsl"
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-05T21:27:30Z",
-            "open_issues": 568,
+            "last_commit": "2026-11-07T01:59:49Z",
+            "open_issues": 571,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1176,
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T21:21:37Z",
+            "last_commit": "2026-11-06T11:56:03Z",
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:52:35.145Z",
+    "last_updated": "2026-11-07T07:01:51.620Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
