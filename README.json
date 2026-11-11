@@ -19,7 +19,7 @@
             "open_issues": 327,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7441,
+            "stars": 7442,
             "topics": [
               "compiler",
               "enso",
@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T22:08:13Z",
-            "open_issues": 1302,
+            "last_commit": "2026-11-11T05:18:53Z",
+            "open_issues": 1298,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6783,
+            "stars": 6785,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T21:04:47Z",
+            "last_commit": "2026-11-10T21:04:37Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,11 +186,11 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-10T07:29:55Z",
+            "last_commit": "2026-11-10T21:24:23Z",
             "open_issues": 576,
             "owner": "hazelgrove",
             "repo": "hazel",
-            "stars": 1194,
+            "stars": 1197,
             "topics": [
               "editor",
               "elm",
@@ -218,7 +218,7 @@
             "open_issues": 19,
             "owner": "kneasle",
             "repo": "sapling",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "code-editor",
               "editor",
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T16:30:23Z",
+            "last_commit": "2026-11-10T16:20:28Z",
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:20:56.463Z",
+    "last_updated": "2026-11-11T07:42:11.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
