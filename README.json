@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T05:18:53Z",
-            "open_issues": 1298,
+            "last_commit": "2026-11-11T23:06:54Z",
+            "open_issues": 1297,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6785,
+            "stars": 6788,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T21:04:37Z",
+            "last_commit": "2026-11-11T21:04:23Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,7 +186,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-10T21:24:23Z",
+            "last_commit": "2026-11-11T22:56:13Z",
             "open_issues": 576,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -218,7 +218,7 @@
             "open_issues": 19,
             "owner": "kneasle",
             "repo": "sapling",
-            "stars": 771,
+            "stars": 772,
             "topics": [
               "code-editor",
               "editor",
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T16:20:28Z",
+            "last_commit": "2026-11-12T08:10:39Z",
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -518,7 +518,7 @@
             "open_issues": 0,
             "owner": "jeprinz",
             "repo": "pantograph",
-            "stars": 120,
+            "stars": 121,
             "topics": []
           },
           "first_seen": "2026-08-28T12:42:24.373Z"
@@ -539,7 +539,7 @@
             "open_issues": 20,
             "owner": "freon4dsl",
             "repo": "Freon4dsl",
-            "stars": 80,
+            "stars": 79,
             "topics": [
               "domain-specific-language",
               "dsl",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:42:11.877Z",
+    "last_updated": "2026-11-12T08:12:45.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
@@ -866,7 +866,7 @@
       "open_issues": 5,
       "owner": "yairchu",
       "repo": "awesome-structure-editors",
-      "stars": 469,
+      "stars": 470,
       "topics": [
         "awesome",
         "awesome-list",
