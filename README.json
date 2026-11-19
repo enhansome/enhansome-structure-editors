@@ -19,7 +19,7 @@
             "open_issues": 327,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7442,
+            "stars": 7443,
             "topics": [
               "compiler",
               "enso",
@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T21:11:21Z",
-            "open_issues": 573,
+            "last_commit": "2026-11-19T01:54:42Z",
+            "open_issues": 92,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6797,
+            "stars": 6800,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -80,7 +80,7 @@
             "open_issues": 0,
             "owner": "samuelmtimbo",
             "repo": "unit",
-            "stars": 4924,
+            "stars": 4923,
             "topics": [
               "dataflow-programming",
               "functional-programming",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T21:04:40Z",
+            "last_commit": "2026-11-18T21:04:30Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,7 +186,7 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-18T07:10:04Z",
+            "last_commit": "2026-11-19T01:33:56Z",
             "open_issues": 585,
             "owner": "hazelgrove",
             "repo": "hazel",
@@ -310,7 +310,7 @@
             "open_issues": 70,
             "owner": "hazelgrove",
             "repo": "tylr",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "holes",
               "js-of-ocaml",
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T22:40:15Z",
+            "last_commit": "2026-11-18T15:14:07Z",
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -805,7 +805,7 @@
             "open_issues": 41,
             "owner": "chrispsn",
             "repo": "mesh",
-            "stars": 1555,
+            "stars": 1556,
             "topics": [
               "alpha",
               "ide",
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:28:08.971Z",
+    "last_updated": "2026-11-19T08:41:03.588Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
