@@ -19,7 +19,7 @@
             "open_issues": 327,
             "owner": "enso-org",
             "repo": "enso",
-            "stars": 7442,
+            "stars": 7443,
             "topics": [
               "compiler",
               "enso",
@@ -49,11 +49,11 @@
             "id": 35164952,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T23:27:25Z",
-            "open_issues": 60,
+            "last_commit": "2026-11-26T18:53:37Z",
+            "open_issues": 61,
             "owner": "unisonweb",
             "repo": "unison",
-            "stars": 6804,
+            "stars": 6806,
             "topics": [
               "hacktoberfest",
               "haskell",
@@ -134,7 +134,7 @@
             "id": 2209077,
             "language": "JetBrains MPS",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T09:06:01Z",
+            "last_commit": "2026-11-27T09:07:06Z",
             "open_issues": 6,
             "owner": "JetBrains",
             "repo": "MPS",
@@ -186,8 +186,8 @@
             "id": 80174692,
             "language": "Reason",
             "license": "MIT",
-            "last_commit": "2026-11-26T09:17:27Z",
-            "open_issues": 569,
+            "last_commit": "2026-11-27T05:01:27Z",
+            "open_issues": 568,
             "owner": "hazelgrove",
             "repo": "hazel",
             "stars": 1201,
@@ -333,7 +333,7 @@
             "id": 386258665,
             "language": "Gleam",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T09:17:35Z",
+            "last_commit": "2026-11-26T10:41:18Z",
             "open_issues": 2,
             "owner": "CrowdHailer",
             "repo": "eyg-lang",
@@ -773,7 +773,7 @@
                 "open_issues": 0,
                 "owner": "xixixao",
                 "repo": "Shem",
-                "stars": 390,
+                "stars": 389,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:42:24.373Z"
@@ -854,7 +854,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T09:25:38.864Z",
+    "last_updated": "2026-11-27T09:37:16.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of projectional and structural editors",
